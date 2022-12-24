@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Graph from './Component/Graph'
 
 function App() {
   return (
     <>
-    
+    <Graph/>
     </>
   );
 }
