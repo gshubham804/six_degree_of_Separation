@@ -1,7 +1,8 @@
 # Six degree of Separation 
 Six degrees of separation is the theory that any person on the planet can be connected to any other person on the planet through a chain of acquaintances that has no more than five intermediaries.(Source: Internet)
 
-#Live Demo : https://finddegree.netlify.app/
+# Live Demo : https://finddegree.netlify.app/
+
 # Instruction:
 ## Step 1:-
 Enter User1, User2 and select relationship type from dropdown menu.
